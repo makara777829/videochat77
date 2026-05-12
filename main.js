@@ -1,4 +1,4 @@
-const APP_ID = "0faabb32a9964b9a83e5e6b0ed3a0bb9"; 
+const APP_ID = 0faabb32a9964b9a83e5e6b0ed3a0bb9; 
 const TOKEN = null;
 const CHANNEL = "main_room";
 
